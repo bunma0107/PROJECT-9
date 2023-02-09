@@ -35,6 +35,7 @@ http://<Jenkins-Server-Public-IP-Address-or-Public-DNS-Name>:8080
 ![image](https://user-images.githubusercontent.com/113097621/217726137-f9e00e23-d2f5-40a0-b6e9-3fc8329aa419.png)
     
 STEP 2
+    Configure Jenkins to retrieve source codes from GitHub using Webhooks
     
 
 
