@@ -47,6 +47,22 @@ Console Output
 ![image](https://user-images.githubusercontent.com/113097621/217985032-3e0b2888-18ba-4498-942c-9fce5db19488.png)
 
 
+    Add the line Checking Jenkins
+    ![image](https://user-images.githubusercontent.com/113097621/217993540-5d71657a-39c0-4ec3-a54b-101361fac5fb.png)
+
+   By default, the artifacts are stored on Jenkins server locally 
+    ![image](https://user-images.githubusercontent.com/113097621/217996744-eb636e33-6b89-489e-a1a5-78fe91a99de8.png)
+    
+    
+    Configure Jenkins to copy files to NFS server via SSH
+    
+   Publish over SSH plugin was installed
+    ![image](https://user-images.githubusercontent.com/113097621/217997805-118b0dc4-b961-4c3a-ab78-ec031d501944.png)
+
+    
+    Configure the job/project to copy artifacts over to NFS server.
+    
+
 
 
 
