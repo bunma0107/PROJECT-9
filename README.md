@@ -63,6 +63,13 @@ Console Output
     Configure the job/project to copy artifacts over to NFS server.
     
     ![image](https://user-images.githubusercontent.com/113097621/218352559-0a92c83a-b0f9-4609-88f0-7a7b79980c95.png)
+    
+    
+    
+    To make sure that the files in /mnt/apps have been udated – connect via SSH/Putty to your NFS server and check README.MD file
+    cat /mnt/apps/README.md
+    ![image](https://user-images.githubusercontent.com/113097621/218355880-234d1a1c-7c26-46cc-a8a1-d2b6daea84f4.png)
+
 
     
 
