@@ -73,7 +73,7 @@ Console Output
     cat /mnt/apps/README.md
     
     
-    ![image](https://user-images.githubusercontent.com/113097621/218356698-8d5265e4-d3d3-454e-be89-6ec026896c45.png)
+ 
 
 
 
