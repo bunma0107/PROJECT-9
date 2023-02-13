@@ -72,6 +72,9 @@ Console Output
     To make sure that the files in /mnt/apps have been udated – connect via SSH/Putty to your NFS server and check README.MD file
     cat /mnt/apps/README.md
     
+    ![image](https://user-images.githubusercontent.com/113097621/218376895-719858a8-9bf0-495d-8ebd-015c94e1e14f.png)
+
+    
     
  
 
