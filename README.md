@@ -62,6 +62,9 @@ Console Output
     
     Configure the job/project to copy artifacts over to NFS server.
     
+    ![image](https://user-images.githubusercontent.com/113097621/218352559-0a92c83a-b0f9-4609-88f0-7a7b79980c95.png)
+
+    
 
 
 
