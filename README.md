@@ -64,13 +64,12 @@ Console Output
     
     
     Test the configuration and make sure the connection returns Success. Remember, that TCP port 22 on NFS server must be open to receive SSH connections.
-    ![image](https://user-images.githubusercontent.com/113097621/218356193-0640f827-480c-4f1d-8a2f-cfe7fe13a873.png)
+   ![image](https://user-images.githubusercontent.com/113097621/218356193-0640f827-480c-4f1d-8a2f-cfe7fe13a873.png)
     
     
     
     To make sure that the files in /mnt/apps have been udated – connect via SSH/Putty to your NFS server and check README.MD file
     cat /mnt/apps/README.md
-    
     ![image](https://user-images.githubusercontent.com/113097621/218355880-234d1a1c-7c26-46cc-a8a1-d2b6daea84f4.png)
 
 
