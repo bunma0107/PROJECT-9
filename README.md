@@ -68,13 +68,17 @@ Console Output
     
     
     
-    
+    Webhook will trigger a new job and in the "Console Output" of the job you will find something like this:
+
+    ![image](https://user-images.githubusercontent.com/113097621/221991799-43585c34-25e7-4f99-993e-7609456879a1.png)
+
     To make sure that the files in /mnt/apps have been udated – connect via SSH/Putty to your NFS server and check README.MD file
     cat /mnt/apps/README.md
     
-    ![image](https://user-images.githubusercontent.com/113097621/218376895-719858a8-9bf0-495d-8ebd-015c94e1e14f.png)
+    ![image](https://user-images.githubusercontent.com/113097621/221992422-ac93f257-1da7-4bb7-b3dd-9695c4cea759.png)
 
-    
+    ![image](https://user-images.githubusercontent.com/113097621/221992246-f9ea5b04-e195-48e7-9bf6-148af397ce15.png)
+
     
  
 
