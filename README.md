@@ -40,7 +40,7 @@ STEP 2
     Enable Webhooks in your GitHub repository settings
     
     Connect to GitHub Repository by copying the URL
-    ![image](https://user-images.githubusercontent.com/113097621/217968850-1337afaf-ae43-4203-a8c4-d742c198c1b0.png)
+![image](https://user-images.githubusercontent.com/113097621/217968850-1337afaf-ae43-4203-a8c4-d742c198c1b0.png)
 ![image](https://user-images.githubusercontent.com/113097621/217970664-cce9e451-7c42-4720-bfb9-2809ef825c78.png)
 
 Console Output
@@ -48,23 +48,23 @@ Console Output
 
 
     Add the line Checking Jenkins
-    ![image](https://user-images.githubusercontent.com/113097621/217993540-5d71657a-39c0-4ec3-a54b-101361fac5fb.png)
+![image](https://user-images.githubusercontent.com/113097621/217993540-5d71657a-39c0-4ec3-a54b-101361fac5fb.png)
 
    By default, the artifacts are stored on Jenkins server locally 
-    ![image](https://user-images.githubusercontent.com/113097621/217996744-eb636e33-6b89-489e-a1a5-78fe91a99de8.png)
+![image](https://user-images.githubusercontent.com/113097621/217996744-eb636e33-6b89-489e-a1a5-78fe91a99de8.png)
     
     
     Configure Jenkins to copy files to NFS server via SSH
     
    Publish over SSH plugin was installed
-    ![image](https://user-images.githubusercontent.com/113097621/217997805-118b0dc4-b961-4c3a-ab78-ec031d501944.png)
+![image](https://user-images.githubusercontent.com/113097621/217997805-118b0dc4-b961-4c3a-ab78-ec031d501944.png)
 
     
     Configure the job/project to copy artifacts over to NFS server.
     
     
     Test the configuration and make sure the connection returns Success. Remember, that TCP port 22 on NFS server must be open to receive SSH connections.
-   ![image](https://user-images.githubusercontent.com/113097621/218356193-0640f827-480c-4f1d-8a2f-cfe7fe13a873.png)
+![image](https://user-images.githubusercontent.com/113097621/218356193-0640f827-480c-4f1d-8a2f-cfe7fe13a873.png)
     
     
     
